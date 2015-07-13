@@ -1,0 +1,66 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\App.baml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\Losowanie matura.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\Losowanie matura.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\Losowanie matura.exe.manifest
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\Losowanie matura.application
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\Losowanie matura.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\Losowanie matura.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\Losowanie matura_MarkupCompile.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\Losowanie matura_MarkupCompile.lref
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\Losowanie matura.g.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\LosowanieMatura.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\Losowanie matura.exe.manifest
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\Losowanie matura.application
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\Losowanie matura.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\Losowanie matura.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\Losowanie matura.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\bin\Debug\Losowanie podstawowe.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\bin\Debug\Losowanie podstawowe.exe.manifest
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\bin\Debug\Losowanie podstawowe.application
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\bin\Debug\Losowanie podstawowe.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\bin\Debug\Losowanie podstawowe.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\obj\Debug\Losowanie matura.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\obj\Debug\Losowanie podstawowe_MarkupCompile.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\obj\Debug\Losowanie podstawowe_MarkupCompile.lref
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\obj\Debug\App.baml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\obj\Debug\Losowanie podstawowe.g.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\obj\Debug\LosowaniePodstawowe.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\obj\Debug\Losowanie matura.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\obj\Debug\Losowanie podstawowe.exe.manifest
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\obj\Debug\Losowanie podstawowe.application
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\obj\Debug\Losowanie podstawowe.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Losowanie podstawowe\WpfApplication2\obj\Debug\Losowanie podstawowe.pdb
